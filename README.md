@@ -3,4 +3,6 @@
 Aqui você vai encontrar alguns exemplos de tipos de variáveis,estrutura de dados, condicionais, laços de repetição, dentre outras coisas.
 
 
-#Projeto em construção!!!
+<h4 align="center"> 
+	🚧  Em construção...  🚧
+</h4>
